@@ -1,3 +1,2 @@
 # learning
-learn record
-# hewenbang 2019.1.16
+## 从新学习前端
